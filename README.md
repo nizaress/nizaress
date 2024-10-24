@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hey there! I'm Nizar</h1>
+<h3 align="center">CS student and enthusiast</h3>
+===================================
 
-<!--
-**nizaress/nizaress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stats
+<table>
+  <tr>
+    <td valign="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nizaress"/></td>
+    <td valign="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nizaress"/></td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Socials
+<p align="left">
+  <a href="https://twitter.com/filipinosmaster" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+   </a>
+  <a href="https://www.linkedin.com/in/nortes" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+   </a>
+  <a href="https://www.discordapp.com/users/375325602867314689" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+   </a>
+  <a href="https://www.instagram.com/elmorocojonero" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+   </a>
+   <a href="https://www.youtube.com/@filipinossmaster" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+   </a>
+ </p>
