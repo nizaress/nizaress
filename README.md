@@ -12,10 +12,10 @@
 <table>
   <tr>
     <td valign="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nizaress&theme=dracula"/>
+      <img src="./profile-summary-cards-output/dracula/0-profile-details.svg" alt="Profile Details"/>
     </td>
     <td valign="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nizaress&theme=dracula"/>
+      <img src="./profile-summary-cards-output/dracula/1-repos-per-language.svg" alt="Repos Per Language"/>
     </td>
   </tr>
 </table>
